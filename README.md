@@ -9,5 +9,5 @@ apptainer build --fakeroot <container_name>.sif <container_name>.def
 
 ### Run a container
 ```
-apptainer run --nv your.sif
+apptainer run --nv <container_name>.sif
 ```
