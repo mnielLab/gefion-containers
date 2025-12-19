@@ -6,3 +6,8 @@ Code and guides for setting up apptainer containers on Gefion HPC to run AlphaFo
 ```
 apptainer build --fakeroot <container_name>.sif <container_name>.def
 ```
+
+### Run a container
+```
+apptainer run --nv your.sif
+```
