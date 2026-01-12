@@ -1,0 +1,38 @@
+{
+    "name": "1ao7_A_C_D_E",
+    "modelSeeds": [
+        0
+    ],
+    "dialect": "alphafold3",
+    "version": 1,
+    "sequences": [
+        {
+            "protein": {
+                "id": "A",
+                "sequence": "GSHSMRYFFTSVSRPGRGEPRFIAVGYVDDTQFVRFDSDAASQRMEPRAPWIEQEGPEYWDGETRKVKAHSQTHRVDLGTLRGYYNQSEAGSHTVQRMYGCDVGSDWRFLRGYHQYAYDGKDYIALKEDLRSWTAADMAAQTTKHKWEAAHVAEQLRAYLEGTCVEWLRRYLENGKETLQ",
+                "templates": []
+            }
+        },
+        {
+            "protein": {
+                "id": "C",
+                "sequence": "LLFGYPVYV",
+                "templates": []
+            }
+        },
+        {
+            "protein": {
+                "id": "D",
+                "sequence": "EVEQNSGPLSVPEGAIASLNCTYSDRGSQSFFWYRQYSGKSPELIMSIYSNGDKEDGRFTAQLNKASQYVSLLIRDSQPSDSATYLCAVTTDSWGKLQFGAGTQVVVTP",
+                "templates": []
+            }
+        },
+        {
+            "protein": {
+                "id": "E",
+                "sequence": "GVTQTPKFQVLKTGQSMTLQCAQDMNHEYMSWYRQDPGMGLRLIHYSVGAGITDQGEVPNGYNVSRSTTEDFPLRLLSAAPSQTSVYFCASRPGLAGGRPEQYFGPGTRLTVT",
+                "templates": []
+            }
+        }
+    ]
+}

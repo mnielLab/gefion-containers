@@ -1,0 +1,37 @@
+{
+    "name": "1e6j_ag_P_ab_L_H",
+    "sequences": [
+        {
+            "protein": {
+                "id": "P",
+                "sequence": "VHQAISPRTLNAWVKVVEEKAFSPEVIPMFSALSEGATPQDLNTMLNTVGGHQAAMQMLKETINEEAAEWDRVHPVHAGPIAPGQMREPRGSDIAGTTSTLQEQIGWMTNNPPIPVGEIYKRWIILGLNKIVRMYSPTSILDIRQGPKEPFRDYVDRFYKTLRAEQASQEVKNWMTETLLVQNANPDCKTILKALGPAATLEEMMTACQG",
+                "unpairedMsa": "",
+                "pairedMsa": "",
+                "templates": []
+            }
+        },
+        {
+            "protein": {
+                "id": "L",
+                "sequence": "EIVLTQSPAITAASLGQKVTITCSASSSVSYMHWYQQKSGTSPKPWIYEISKLASGVPARFSGSGSGTSYSLTISSMEAEDAAIYYCQQWNYPFTFGSGTKLEIKRADAAPTVSIFPPSSEQLTSGGASVVCFLNNFYPKDINVKWKIDGSERQNGVLNSWTDQDSKDSTYSMSSTLTLTKDEYERHNSYTCEATHKTSTSPIVKSFNRN",
+                "unpairedMsa": "",
+                "pairedMsa": "",
+                "templates": []
+            }
+        },
+        {
+            "protein": {
+                "id": "H",
+                "sequence": "EVQLQQSGAELARPGASVKMSCKASGYTFTSYTMHWVKQRPGQGLEWIGYINPSSGYSNYNQKFKDKATLTADKSSSTAYMQLSSLTSEDSAVYYCSRPVVRLGYNFDYWGQGSTLTVSSAKTTPPSVYPLAPGSAAQTNSMVTLGCLVKGYFPEPVTVTWNSGSLSSGVHTFPAVLQSDLYTLSSSVTVPSSTWPSETVTCNVAHPASSTKVDKKIVP",
+                "unpairedMsa": "",
+                "pairedMsa": "",
+                "templates": []
+            }
+        }
+    ],
+    "modelSeeds": [
+        0
+    ],
+    "dialect": "alphafold3",
+    "version": 1
+}
