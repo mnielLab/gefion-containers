@@ -1,11 +1,13 @@
 #! /bin/bash
-export AF3_RESOURCES_DIR=/home/projects2/alphafold3/alphafold3_resources
+
+WORKDIR=$(dirname $0)
+export AF3_RESOURCES_DIR=$(realpath $WORKDIR/../../../../alphafold3/alphafold3_resources)
 export AF3_MODEL_PARAMETERS_DIR=${AF3_RESOURCES_DIR}/weights
 export AF3_DATABASES_DIR=${AF3_RESOURCES_DIR}/databases
-export AF3_SRC=./alphafold3
+export AF3_SRC=$(realpath $WORKDIR/alphafold3)
 
 
-
+     
 export AF3_IMAGE=$1
 export AF3_INPUT_DIR=$2
 export AF3_OUTPUT_DIR=$3
